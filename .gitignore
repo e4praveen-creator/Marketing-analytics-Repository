@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+node_modules/
+.next/
+marketing_analytics.db
+.pytest_cache/
